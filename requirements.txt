@@ -1,0 +1,8 @@
+# Flask 用于构建 Web 应用及 RESTful API
+Flask==2.2.2
+
+# MySQL 驱动
+mysql-connector-python==8.0.33
+
+# Redis 驱动
+redis==4.5.1
